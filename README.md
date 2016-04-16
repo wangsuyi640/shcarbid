@@ -1,2 +1,1 @@
-# shcarbid
-bid car of ShangHai
+#lottery
